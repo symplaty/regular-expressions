@@ -22,7 +22,23 @@ Anthonyoung@gmail.com
 anthony.young-1@ab-12.net
 anthony-young@ab.cd.org
 
-ayt.one
-google.com
-abc.cn
-efg.gov
+https://ayt.one
+https://www.google.com
+http://abc.cn
+https://www.efg.gov
+
+
+010-123-4567
+203.345.5467
+(125)346-9237
+
+David Lee
+Arial Blue
+Green Black
+Zray Clay
+
+you can quote a “quote” with a pair of “quotation marks”.
+“A boy is a boy” is an old saying.
+
+You dum-dum, chop-chop! We are going to be late!
+If we go fifty-fifty rather than ten-ninety, this will be a win-win situation.
